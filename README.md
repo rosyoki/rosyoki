@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rosyoki
 - 👀 I’m interested in Java,Node.js,Vue.js, React etc.
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.js and Golang
 - 💞️ I’m looking to collaborate on TypeScript
 - 📫 How to reach me twitter.
 
